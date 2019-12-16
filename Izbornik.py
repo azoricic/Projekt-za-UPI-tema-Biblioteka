@@ -33,7 +33,7 @@ def main():
 
             elif izbor==3: 
 
-                        biblioteka.dodajKnjigu(clan.vracenaKnjiga()) 
+                        biblioteka.dodajKnjigu(clan.vratiKnjigu()) 
 
             elif izbor==4:
                         sys.exit() 
