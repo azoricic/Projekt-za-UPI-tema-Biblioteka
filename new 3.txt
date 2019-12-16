@@ -1,0 +1,35 @@
+<div class="col-xl-3 col-lg-4 pt-5 d-none d-lg-block">
+        
+<aside class="sidebar p-10">
+
+  <div class="widget widget-categories">
+    <h3 class="widget-title">Kategorije</h3>
+    <ul style="list-style-type: none;">
+      
+                    <li class="pl-3"><b>Najčitanije knjige - Bestseleri</b></li>
+                          <li class="pl-4"><a
+          href="/kategorija-proizvoda/povijesni/500005020010">Povijesni</a>
+        </li>
+                          <li class="pl-4"><a
+          href="/kategorija-proizvoda/ljubavni-i-erotski/500005020020">Ljubavni i erotski</a>
+        </li>
+                          <li class="pl-4"><a
+          href="/kategorija-proizvoda/triler-i-krimi/500005020030">Triler i krimi</a>
+        </li>
+                          <li class="pl-4"><a
+          href="/kategorija-proizvoda/young-adult-i-fantasy/500005020040">Young adult i fantasy</a>
+        </li>
+                          <li class="pl-4"><a
+          href="/kategorija-proizvoda/sf-znantvena-fantastika/500005020050">SF (znantvena fantastika)</a>
+        </li>
+                          <li class="pl-4"><a
+          href="/kategorija-proizvoda/humor-i-satira/500005020060">Humor i satira</a>
+        </li>
+                          <li class="pl-4"><a
+          href="/kategorija-proizvoda/umjetnicka-proza/500005020070">Umjetnička proza</a>
+        </li>
+                          <li class="pl-4"><a
+          href="/kategorija-proizvoda/poezija/500005020080">Poezija</a>
+        </li>
+                      </ul>
+  </div>
