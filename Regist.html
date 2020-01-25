@@ -1,0 +1,79 @@
+﻿<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<style>
+body {
+  background-image: url('bolja.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+
+ul.nav-traka { 
+list-style-type:none;
+padding-left:0px;
+margin-left:10px;
+float:bottom;
+}
+
+ul.nav-traka li { 
+display:inline;
+margine-right:-5px;}
+
+ul.nav-traka a:link, a:visited {
+display:inline-block
+width:250px;
+font-weight:bold;
+color:yellow;
+background-color:#8000ff;
+text-align:center;
+padding:4px;
+text-decoration:none;
+border:1px solid;
+}
+
+div.container{
+
+color:black;
+position:absolute;
+top:35%;
+left:37%;
+width:440px; 
+}
+
+</style>
+
+<body>
+<div class="container">
+  <h2>Kreiraj novi račun</h2>
+  <form action="/reg" method="post">
+    <div class="form-group">
+      <label for="ime">Ime:</label>
+      <input type="ime" class="form-control"name="ime" id="ime" placeholder="Unesite ime">
+    </div>
+    <div class="form-group">
+      <label for="pre">Prezime:</label>
+      <input type="prezime"name="prezime" class="form-control" id="pre" placeholder="Unesite prezime">
+    </div>
+	<div class="form-group">
+      <label for="email">Email:</label>
+      <input type="email" class="form-control" name="email" id="email" placeholder="Unesite email">
+    </div>
+	<div class="form-group">
+      <label for="pwd">Lozinka:</label>
+      <input type="password" name="password"  class="form-control" id="pwd" placeholder="Unesite lozinku">
+	  <input type="password" name="password2" class="form-control" id="pwd" placeholder="Unesite lozinku">
+    </div>
+    <button type="submit" class="btn btn-default">Upiši se</button>
+  </form>
+</div>
+
+      
+
+</body>
+</html>

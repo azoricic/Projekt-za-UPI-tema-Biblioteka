@@ -1,0 +1,60 @@
+Humanističke znanosti;Boris Havel;Arapsko-izraelski sukob
+Humanističke znanosti;Rita Felski;Granice kritike
+Humanističke znanosti;Nuccio Ordine;Korisnost beskorisnog
+Humanističke znanosti;Boris Domagoj Biletič;Istarsko troknjižje: Nadzavičajne vrijednosti
+Humanističke znanosti;Boris Domagoj Biletič;Istarsko troknjižje: Značajnici i teme 19. i 20. stoljeća
+Humanističke znanosti;Boris Domagoj Biletič;Istarsko troknjižje: Vodeća imena 20. stoljeća
+Humanističke znanosti;Wollfy Krašić;Hrvatsko proljeće i hrvatska politička emigracija
+Humanističke znanosti;Ratko Zelenika;Dobrim znanjem do akademske karijere i znanstvene karijere
+Humanističke znanosti;Ulf Brunnbauer;Globalizacija jugoistočne Europe
+Humanističke znanosti;Milan Pelc;Povijest umjetnosti u Hrvatskoj
+Humanističke znanosti;Marijan Richter;Slika između izgleda i pogled
+Humanističke znanosti;Ivan J. Bošković;Teatrološki ogledi
+Humanističke znanosti;Frano Dulibić;Omer Mujadžić
+Humanističke znanosti;Stephen Farthing; Umjetnost, vodič kroz povijest i dijela
+Humanističke znanosti;Rodney Stark;Lažna svjedočanstva
+Humanističke znanosti;Petar Bašić;Bartol Kašić, prevoditelj
+Humanističke znanosti;Nikola Eterović;Sveta Stolica i Hrvatska
+Humanističke znanosti;Joseph Ratzinger;O savjesti
+Humanističke znanosti;Krešimir Regan;Sporazum ili nesporazum?
+Humanističke znanosti;Hrvoje Spajić;Rimska vojska
+Prirodne znanosti;Andrej Dujella;Teorija brojeva
+Prirodne znanosti;Dr. Rachna Patel;CBD ulje
+Prirodne znanosti;Prof. dr. sc. Ivica Lukšić;Maksilofacijalna kirurgija
+Prirodne znanosti;Sandro Skansi;Logika i dokazi
+Prirodne znanosti;Sandra Kadum;Poglavlje iz didaktike matematike
+Prirodne znanosti;Vladimir Kadum;Poglavlje iz didaktike matematike
+Prirodne znanosti;Vasilije Nikolić;Principi biomehanike
+Prirodne znanosti;Karl-Heinz Decker;Elementi strojeva
+Prirodne znanosti;Radoslav Pavazza;Mehanika - Statika
+Prirodne znanosti;Slavica Dodig;Imunokemija
+Prirodne znanosti;Dragan Poljak;Teorija elektromagnetskih polja s primjenama u inženjerstvu
+Prirodne znanosti;Carlo Rovelli;A što ako vrijeme ne postoji?
+Prirodne znanosti;Pradeep Kumar;Vedska matematika
+Prirodne znanosti;Theodore Gray;Molekule
+Prirodne znanosti;Vlado Stošić;Planimetrija
+Prirodne znanosti;Marko Grba;Fizika nakon čuda 1905.
+Prirodne znanosti;Vojko Rešetar;Promet u mirovanju i prometno redarstvo
+Prirodne znanosti;Stanislav Bolanča;Tisak ambalaže
+Prirodne znanosti;Mladen Pačar;Vektor, pravac i ravnina u prostoru
+Prirodne znanosti;Peter M. Higgins;Brojevi - Kratki uvod
+Suvremena književnost;John Green;Gradovi na papiru
+Suvremena književnost;Jean-Marie Laclaventine;Kuna i leopard
+Suvremena književnost;Philippe Claudel;Pseći arhipelag
+Suvremena književnost;Sophie Loubiere;Po mjeri naših šutnja
+Suvremena književnost;Andrea Bartz;Izgubljena noć
+Suvremena književnost;Anja Golob;Didaskalije uz disanje
+Suvremena književnost;Barbara Yelin;Irmina
+Suvremena književnost;Josie Silver;Jednog dana u prosincu
+Suvremena književnost;Ilija Leonard Pfeijffer;LA Superba
+Suvremena književnost;Orhan Pamuk;Istanbul
+Suvremena književnost;Marlene van Niekerk;Spavač u smetu
+Suvremena književnost;Michael McClure;Predsoblje noći
+Suvremena književnost;Margaret Atwood;Sluškinjina priča
+Suvremena književnost;Arno Geiger;Pod Zmajevom stijenom
+Suvremena književnost;Antonio Lobo Antunes;Sjaj Portugala
+Suvremena književnost;Pierre J. Mejlak;Nakon pozdrava za laku noć
+Suvremena književnost;Neven Ušumović;Zlatna opeklina
+Suvremena književnost;Kalin Terzyski;Postoji li netko tko vas voli
+Suvremena književnost;Ralph Ellison;Nevidljivi čovjek
+Suvremena književnost;Lafcadio Hearn;Miris japanskog kada
